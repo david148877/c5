@@ -1,0 +1,1 @@
+sh /home/warehouse/pohsuchen/cse560m/configs/560_assign3_script.sh
