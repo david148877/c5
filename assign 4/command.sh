@@ -1,0 +1,1 @@
+$GEM5/build/ARM/gem5.opt hw4config.py --smt -c "daxpy/daxpy_arm;daxpy/daxpy_arm;daxpy/daxpy_arm;daxpy/daxpy_arm" --cpu-type="DerivO3CPU" --caches --l2cache --num-phys-float-regs=1024 --num-rob-entries=512 --num-iq-entries=512 --fetch-policy=lsqcount
